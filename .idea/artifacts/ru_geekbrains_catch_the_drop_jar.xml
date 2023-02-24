@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ru.geekbrains.catch_the_drop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ru_geekbrains_catch_the_drop_jar</output-path>
+    <root id="archive" name="ru.geekbrains.catch_the_drop.jar">
+      <element id="module-output" name="ru.geekbrains.catch_the_drop" />
+    </root>
+  </artifact>
+</component>
