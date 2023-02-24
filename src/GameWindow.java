@@ -16,6 +16,7 @@ public class GameWindow extends JFrame {
 
     private static void onRepaint (Graphics g) {
         g.fillOval(10, 10, 200, 100);
+        g.drawLine(250, 150, 400, 250);
     }
 
     private static class GameField extends JPanel {
